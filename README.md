@@ -31,7 +31,7 @@ Vulnerability #2: __________________
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference --> If you change the id get variable in the URL to 10 or 11 while whithin a salesperson page, the page allows you access salesperson information that is meant to not be public.
-<img src="<img src="https://media.giphy.com/media/9x1dCoGSs7KJ0gOctS/giphy.gif" width="800">" width="800">
+<img src="https://media.giphy.com/media/1dLONni9K46KDI6kT1/giphy.gif" width="800">
 
 Vulnerability #2: __________________
 
