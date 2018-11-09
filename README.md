@@ -24,6 +24,7 @@ Vulnerability #2: __________________
 ## Green
 
 Vulnerability #1: Cross-Site Scripting --> If you leave feedback as a user and enter some javascript, the javascript will run when an admin views the feedback.
+<img src="https://media.giphy.com/media/nbjegOtbia4sax14Ka/giphy.gif" width="800">
 
 Vulnerability #2: __________________
 
